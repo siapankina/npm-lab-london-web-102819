@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "clock-that-changes color every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siapankina/npm-lab-london-web-102819.git"
+  },
+  "author": "siapankina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siapankina/npm-lab-london-web-102819/issues"
+  },
+  "homepage": "https://github.com/siapankina/npm-lab-london-web-102819#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
